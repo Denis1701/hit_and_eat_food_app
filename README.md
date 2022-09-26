@@ -1,4 +1,4 @@
-My react food app application made as part of Udemy React - Maximilian course
+My react food application made as part of Udemy React - Maximilian course
 
 This app implements the next Hooks: useState, useEffect, useContext, useRef and Portals.
 
